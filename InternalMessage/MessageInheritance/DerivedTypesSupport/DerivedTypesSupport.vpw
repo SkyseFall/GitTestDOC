@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <workspace name="DerivedTypesSupporttestupdated" type="VolanteProject">
+	<selected-element root="/projects/GitTestDOC/InternalMessage/MessageInheritance/DerivedTypesSupport/Cartridges/MessageInheritance.car">DerivedTypes/BaseMessage/BaseMessage</selected-element>
+	<open-files>
+		<file>DerivedTypesSupporttestupdated/DerivedTypesSupport/Cartridges/DerivedTypes</file>
+	</open-files>
+	<recent-files>
+		<file>DerivedTypesSupporttestupdated/DerivedTypesSupport/Cartridges/DerivedTypes</file>
+	</recent-files>
 	<additionalTestClasspaths>
 	</additionalTestClasspaths>
 	<additional-properties>

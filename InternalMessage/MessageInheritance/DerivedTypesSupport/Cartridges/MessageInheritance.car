@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<cartridge xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="7.0.1-SNAPSHOT" name="DerivedTypes" type="Cartridge" id="6401f4f9-4438-4769-8641-93a97c3d1be8">
+<cartridge xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="7.1.1-SNAPSHOT" name="DerivedTypes" type="Cartridge" id="6401f4f9-4438-4769-8641-93a97c3d1be8">
 	<description><![CDATA[This cartridge illustrates how to use 'Derived Types Support' message flow. tets1
 
 
@@ -55,7 +55,7 @@ The complete object data will be serialized in the 'rawOut']]></description>
 			<fields>
 				<field xsi:type="InternalMessageFieldType">
 					<name>Trade Date</name>
-					<type>Character</type>
+					<type>Boolean</type>
 					<notnull>true</notnull>
 				</field>
 				<field xsi:type="InternalMessageFieldType">
@@ -431,10 +431,10 @@ The complete object data will be serialized in the 'rawOut']]></description>
 					<propertymap>
 						<property name="Author" value="lekha"/>
 						<property name="Creation Time" value="Wed Sep 20 14:35:41 IST 2017"/>
-						<property name="Designer Build" value="3128"/>
-						<property name="Last Author" value="maheshraj.rp"/>
-						<property name="Last Save Time" value="Tue Aug 08 10:52:00 UTC 2023"/>
-						<property name="Revision Number" value="135"/>
+						<property name="Designer Build" value="3326"/>
+						<property name="Last Author" value="priyanka.balakrishnan+user3"/>
+						<property name="Last Save Time" value="Mon Oct 28 09:07:25 UTC 2024"/>
+						<property name="Revision Number" value="136"/>
 						<property name="Title" value="DemoCart-2"/>
 					</propertymap>
 				</value>
