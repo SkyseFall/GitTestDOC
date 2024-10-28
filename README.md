@@ -1,4 +1,4 @@
 # GitTestDOC
 
 Create by SkyseFall.
-edfsdf
+updated the text for testing the fetch operation.
