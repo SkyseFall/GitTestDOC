@@ -75,7 +75,7 @@ The complete object data will be serialized in the 'rawOut']]></description>
 					<notnull>true</notnull>
 				</field>
 				<field xsi:type="InternalMessageFieldType">
-					<name>type1</name>
+					<name>type2</name>
 					<type>DateTime</type>
 					<notnull>true</notnull>
 				</field>
@@ -432,8 +432,8 @@ The complete object data will be serialized in the 'rawOut']]></description>
 						<property name="Creation Time" value="Wed Sep 20 14:35:41 IST 2017"/>
 						<property name="Designer Build" value="3326"/>
 						<property name="Last Author" value="priyanka.balakrishnan+user3"/>
-						<property name="Last Save Time" value="Mon Nov 04 08:03:19 UTC 2024"/>
-						<property name="Revision Number" value="137"/>
+						<property name="Last Save Time" value="Tue Nov 05 07:22:10 UTC 2024"/>
+						<property name="Revision Number" value="138"/>
 						<property name="Title" value="DemoCart-2"/>
 					</propertymap>
 				</value>
